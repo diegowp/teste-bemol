@@ -1,0 +1,19 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+
+Indiferente
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil?
+
+Azure, sim
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+
+Não, está fora do meu perfil
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+
+O sistema sempre pode evoluir, cabe estudar as necessidades do negócio e tornar isso possível.
+
+5. Acha válido esse desafio para o processo que está participando?
+
+Para vaga de Front, está meio fora, principalmente as perguntas bem específicas de infra.
